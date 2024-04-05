@@ -86,3 +86,12 @@ Por fim temos as demais medidas DAX e os visuais formatados.
 Para o tema de cores foi utilizado o Adobe Palett Colors com a logo do Spotify.
 
 ![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/0101db84-d28f-4e28-a5bc-4cedb44205a0)
+
+
+## Dashboard:
+
+![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/17e2555d-4ce8-4f06-8730-7605360307a3)
+
+![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/52d19c92-260e-47e7-aa10-b5f2d59518d1)
+
+
