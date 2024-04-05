@@ -4,26 +4,26 @@
 
 ## Etapas
 
-1° Donwload do Dataset (Kaggle)
+1° Donwload do Dataset (Kaggle);
 
-2° Incrementar o Dataset com Python e AI 
+2° Incrementar o Dataset com Python e AI;
 
-3° Prototipação com Figma
+3° Prototipação com Figma;
 
-4° ETL
+4° ETL;
 
-5° Criação das medidas DAX
+5° Criação das medidas DAX;
 
-6° Código HTML para o Cover do Album
+6° Código HTML para o Cover do Album;
 
-7° Código e visual DENEB para a Energia da música
+7° Código e visual DENEB para a Energia da música;
 
-8° Formatação dos visuais
+8° Formatação dos visuais.
+
+## Desenvolvimento
 
 ### 1° Passo (Dataset)
 - Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download
-
-## Desenvolvimento
 
 ### 2° Passo (Incrementação com Python e IA)
 
@@ -85,4 +85,4 @@ Para isso foi utilizado também um visual extra ao PowerBI, o DNEB, e o código 
 Por fim temos as demais medidas DAX e os visuais formatados.
 Para o tema de cores foi utilizado o Adobe Palett Colors com a logo do Spotify.
 
-![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/df05f1eb-d121-47d5-bbde-27017d5d62ae)
+![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/0101db84-d28f-4e28-a5bc-4cedb44205a0)
