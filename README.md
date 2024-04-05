@@ -41,12 +41,12 @@ Dentro do PowerBI, já podemos trabalhar com os gráficos e as medidas propostas
 
 Obs: Foi utilizado um visual extra ao PowerBI, o HTML content.
 
-![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/966d871b-3898-4287-8aec-12b70b8e0cd6)
+![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/a822d5f0-c97e-4181-b5b0-07d3036f47f4)
 
 
 •	% De Energia da música:
 
-![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/c4a20edf-396a-4627-9f9b-8236f8195ff1)
+![image](https://github.com/FerreiraGabrielw/DashboardSpotify/assets/165827836/98e539a9-4917-43e3-9f88-aec1f4f03c90)
 
 
 Para isso foi utilizado também um visual extra ao PowerBI, o DNEB.
